@@ -26,11 +26,10 @@ body {
 }
 
 .apresentacao{
-    padding: 5% 10%;
+    padding: 5% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    font-family: var(--fonte-secundaria);
     gap: 82px;
 }
 
